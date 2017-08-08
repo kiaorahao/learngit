@@ -8,3 +8,5 @@ remote test
 Creating a new branch is quick and simple.
 
 branch management strategy.
+
+harry branch —fast forward
