@@ -6,3 +6,5 @@ Git tracks changes of files.
 remote test
 
 Creating a new branch is quick and simple.
+
+branch management strategy.
